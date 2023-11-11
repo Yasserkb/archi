@@ -1,0 +1,13 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÛŸ¯äúÿÿÿÿ8žë¸Ö¹1
+L
+java:S3740!"/Provide the parametrized type for this generic.(Ø·ÿ•8žë¸Ö¹1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßØäÎ8 ë¸Ö¹1
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¡ÿðÎùÿÿÿÿ8Ë¬¹Ö¹1
+G	java:S106"+Replace this use of System.out by a logger.(ž×ÍÖ8¿ë¸Ö¹1
+F	java:S106"+Replace this use of System.out by a logger.(æè½8Åë¸Ö¹1
+G	java:S106"+Replace this use of System.out by a logger.(æñÌŸ8Èë¸Ö¹1
+G	java:S106 "+Replace this use of System.out by a logger.(ýô©ÿ8Éë¸Ö¹1
+L	java:S106$"+Replace this use of System.out by a logger.(¶ÅªÆÿÿÿÿÿ8Ìë¸Ö¹1
